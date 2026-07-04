@@ -1,26 +1,26 @@
 # streamrip 🎬
 
-A lightweight desktop tool for downloading HLS and DASH video streams with a clean GUI. Built with Python and tkinter — no browser extension, no bloat.
+A lightweight desktop tool for downloading HLS and DASH video streams with a clean GUI. Built with Python and tkinter no browser extension, no bloat.
 
 ---
 
 ## Features
 
-- **HLS (.m3u8)** — downloads muxed streams (video + audio in one) at best quality
-- **Real-time progress** — live percentage, download speed, and ETA
-- **Episode naming** — set show name, season, and episode number; generates filenames like `Naruto_S01E04.mp4`
-- **Manual episode increment** — ＋ button to step to the next episode between downloads
-- **Parallel fragment downloading** — 16 concurrent fragments via yt-dlp for maximum speed
-- **Completion sound** — three-tone beep when download finishes
-- **Episode list** — shows recently downloaded files in the save folder
-- **No console window** — clean GUI-only experience on Windows
+- **HLS (.m3u8)** —> downloads muxed streams (video + audio in one) at best quality
+- **Real-time progress** —> live percentage, download speed, and ETA
+- **Episode naming** —> set show name, season, and episode number; generates filenames like `Naruto_S01E04.mp4`
+- **Manual episode increment** —> ＋ button to step to the next episode between downloads
+- **Parallel fragment downloading** —> 16 concurrent fragments via yt-dlp for maximum speed
+- **Completion sound** —> three-tone beep when download finishes
+- **Episode list** —> shows recently downloaded files in the save folder
+- **No console window** —> clean GUI-only experience on Windows
 
 ---
 
 ## Requirements
 
 ### Python
-- Python 3.8 or higher — https://www.python.org/downloads/
+- Python 3.8 or higher —> https://www.python.org/downloads/
 
 ### Dependencies
 
