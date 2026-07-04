@@ -58,7 +58,7 @@ pip install yt-dlp
 ## Usage
 
 ```bash
-python muxed_downloader.py
+python streamrip.py
 ```
 
 ### Steps
@@ -86,8 +86,8 @@ python muxed_downloader.py
 
 ```
 streamrip/
-├── muxed_downloader.py   # Main GUI application (HLS muxed streams)
-├── net11_downloader.py   # HLS downloader with separate audio tracks (FR/EN)
+├── streamrip.py   # Main GUI application (HLS muxed streams)
+├──    # HLS downloader with separate audio tracks (FR/EN)
 ├── README.md
 ```
 
