@@ -133,6 +133,6 @@ Change this to match your FFmpeg installation path if different.
 
 ---
 
-## License
+## Disclaimer
 
-MIT License — do whatever you want, just don't redistribute DRM-bypassing modifications.
+This repository is provided as-is for educational purposes only. The authors do not condone software piracy.
