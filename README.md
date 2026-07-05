@@ -36,7 +36,7 @@ Required for merging and fixing streams.
 
 1. Download from https://www.gyan.dev/ffmpeg/builds/ → `ffmpeg-release-essentials.zip`
 2. Extract to `C:\ffmpeg-8.1.1-essentials_build\` (or any folder)
-3. Add `C:\ffmpeg-8.1.1-essentials_build\bin` to your system PATH
+3. Add `C:\ffmpeg-8.1.1-essentials_build\bin` to your system PATH in Environment variables
 
 Verify:
 ```bash
