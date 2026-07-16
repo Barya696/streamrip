@@ -135,4 +135,4 @@ Change this to match your FFmpeg installation path if different.
 
 ## Disclaimer
 
-This repository is provided as-is for educational purposes only. The authors do not condone software piracy.
+This repository is provided as-is for educational purposes only. The authors do not condone illegal activities.
